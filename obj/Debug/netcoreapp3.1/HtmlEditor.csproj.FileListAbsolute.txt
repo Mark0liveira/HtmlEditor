@@ -1,0 +1,12 @@
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/HtmlEditor/bin/Debug/netcoreapp3.1/HtmlEditor.deps.json
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/HtmlEditor/bin/Debug/netcoreapp3.1/HtmlEditor.runtimeconfig.json
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/HtmlEditor/bin/Debug/netcoreapp3.1/HtmlEditor.runtimeconfig.dev.json
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/HtmlEditor/bin/Debug/netcoreapp3.1/HtmlEditor.dll
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/HtmlEditor/bin/Debug/netcoreapp3.1/HtmlEditor.pdb
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/HtmlEditor/obj/Debug/netcoreapp3.1/HtmlEditor.csprojAssemblyReference.cache
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/HtmlEditor/obj/Debug/netcoreapp3.1/HtmlEditor.AssemblyInfoInputs.cache
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/HtmlEditor/obj/Debug/netcoreapp3.1/HtmlEditor.AssemblyInfo.cs
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/HtmlEditor/obj/Debug/netcoreapp3.1/HtmlEditor.csproj.CoreCompileInputs.cache
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/HtmlEditor/obj/Debug/netcoreapp3.1/HtmlEditor.dll
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/HtmlEditor/obj/Debug/netcoreapp3.1/HtmlEditor.pdb
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/HtmlEditor/obj/Debug/netcoreapp3.1/HtmlEditor.genruntimeconfig.cache
